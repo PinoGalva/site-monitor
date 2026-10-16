@@ -1,0 +1,18 @@
+{
+  "slow_ms": 3000,
+  "down_after_failures": 2,
+  "keep_days": 14,
+  "ssl_warn_days": 14,
+  "sites": [
+    {
+      "name": "Posizionamento SEO",
+      "urls": [
+        { "url": "https://www.posizionamento-seo.com/", "expect_text": "Consulente SEO" },
+        { "url": "https://www.posizionamento-seo.com/llms.txt", "expect_text": "# " },
+        { "url": "https://www.posizionamento-seo.com/blog/" },
+        { "url": "https://www.posizionamento-seo.com/consulente-seo/" }
+      ],
+      "psi_url": "https://www.posizionamento-seo.com/"
+    }
+  ]
+}
