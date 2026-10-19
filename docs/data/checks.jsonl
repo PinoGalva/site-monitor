@@ -70,3 +70,7 @@
 {"url":"https://www.posizionamento-seo.com/llms.txt","ok":true,"status":200,"ttfb":344,"total":350,"err":null,"t":"2026-10-19T01:24:41+00:00","site":"Posizionamento SEO"}
 {"url":"https://www.posizionamento-seo.com/blog/","ok":true,"status":200,"ttfb":356,"total":651,"err":null,"t":"2026-10-19T01:24:41+00:00","site":"Posizionamento SEO"}
 {"url":"https://www.posizionamento-seo.com/consulente-seo/","ok":true,"status":200,"ttfb":348,"total":712,"err":null,"t":"2026-10-19T01:24:41+00:00","site":"Posizionamento SEO"}
+{"url":"https://www.posizionamento-seo.com/","ok":false,"status":403,"ttfb":705,"total":705,"err":"HTTP 403","t":"2026-10-19T06:24:57+00:00","site":"Posizionamento SEO"}
+{"url":"https://www.posizionamento-seo.com/llms.txt","ok":false,"status":403,"ttfb":493,"total":493,"err":"HTTP 403","t":"2026-10-19T06:24:57+00:00","site":"Posizionamento SEO"}
+{"url":"https://www.posizionamento-seo.com/blog/","ok":false,"status":403,"ttfb":465,"total":465,"err":"HTTP 403","t":"2026-10-19T06:24:57+00:00","site":"Posizionamento SEO"}
+{"url":"https://www.posizionamento-seo.com/consulente-seo/","ok":false,"status":403,"ttfb":458,"total":459,"err":"HTTP 403","t":"2026-10-19T06:24:57+00:00","site":"Posizionamento SEO"}
