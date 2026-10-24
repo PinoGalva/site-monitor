@@ -14,7 +14,7 @@
  "https://www.posizionamento-seo.com/blog/": {
   "fails": 0,
   "down": false,
-  "slow": false,
+  "slow": true,
   "since": null
  },
  "https://www.posizionamento-seo.com/consulente-seo/": {
