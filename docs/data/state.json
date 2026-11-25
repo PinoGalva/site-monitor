@@ -1,24 +1,24 @@
 {
  "https://www.posizionamento-seo.com/": {
-  "fails": 0,
+  "fails": 1,
   "down": false,
   "slow": false,
   "since": null
  },
  "https://www.posizionamento-seo.com/llms.txt": {
-  "fails": 0,
+  "fails": 1,
   "down": false,
   "slow": false,
   "since": null
  },
  "https://www.posizionamento-seo.com/blog/": {
-  "fails": 0,
+  "fails": 1,
   "down": false,
   "slow": false,
   "since": null
  },
  "https://www.posizionamento-seo.com/consulente-seo/": {
-  "fails": 0,
+  "fails": 1,
   "down": false,
   "slow": false,
   "since": null
